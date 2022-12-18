@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=pairsum
+comment1.params=arr\ x
+comment1.target=void\ pairsum(int[],\ int)
+numComments=2

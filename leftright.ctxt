@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=leftright
+comment1.params=arr\ n
+comment1.target=int\ leftright(int[],\ int)
+numComments=2

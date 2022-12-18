@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=jython
+comment1.params=arr\ x
+comment1.target=void\ jython(int[],\ int)
+numComments=2
